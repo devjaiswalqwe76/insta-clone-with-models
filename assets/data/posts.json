@@ -1,0 +1,114 @@
+[
+  {
+    "id": "101",
+    "username": "alex",
+    "profileImage": "assets/profiles/profile1.jpg",
+    "caption": "Exploring the streets \u2728",
+    "images": [
+      "assets/posts/street/street1.jpg",
+      "assets/posts/street/street2.jpg",
+      "assets/posts/street/street3.jpg"
+    ],
+    "likes": 120,
+    "isLiked": false,
+    "isSaved": false
+  },
+  {
+    "id": "102",
+    "username": "sara",
+    "profileImage": "assets/profiles/profile2.jpg",
+    "caption": "Travel vibes \ud83c\udf0d",
+    "images": [
+      "assets/posts/travel/travel1.jpg",
+      "assets/posts/travel/travel2.jpg",
+      "assets/posts/travel/travel3.jpg"
+    ],
+    "likes": 98,
+    "isLiked": false,
+    "isSaved": false
+  },
+  {
+    "id": "103",
+    "username": "john",
+    "profileImage": "assets/profiles/profile3.jpg",
+    "caption": "City lifestyle \ud83d\udcf8",
+    "images": [
+      "assets/posts/lifestyle/lifestyle1.jpg",
+      "assets/posts/lifestyle/lifestyle2.jpg",
+      "assets/posts/lifestyle/lifestyle3.jpg"
+    ],
+    "likes": 210,
+    "isLiked": false,
+    "isSaved": false
+  },
+  {
+    "id": "104",
+    "username": "emma",
+    "profileImage": "assets/profiles/profile4.jpg",
+    "caption": "Portrait moment \ud83c\udfad",
+    "images": [
+      "assets/posts/portrait/portrait1.jpg",
+      "assets/posts/portrait/portrait2.jpg",
+      "assets/posts/portrait/portrait3.jpg"
+    ],
+    "likes": 150,
+    "isLiked": false,
+    "isSaved": false
+  },
+  {
+    "id": "105",
+    "username": "olivia",
+    "profileImage": "assets/profiles/profile5.jpg",
+    "caption": "Wander often \u2708\ufe0f",
+    "images": [
+      "assets/posts/travel/travel2.jpg",
+      "assets/posts/travel/travel3.jpg",
+      "assets/posts/travel/travel4.jpg"
+    ],
+    "likes": 178,
+    "isLiked": false,
+    "isSaved": false
+  },
+  {
+    "id": "106",
+    "username": "david",
+    "profileImage": "assets/profiles/profile6.jpg",
+    "caption": "Street photography vibes",
+    "images": [
+      "assets/posts/street/street2.jpg",
+      "assets/posts/street/street3.jpg",
+      "assets/posts/street/street4.jpg"
+    ],
+    "likes": 89,
+    "isLiked": false,
+    "isSaved": false
+  },
+  {
+    "id": "107",
+    "username": "sophia",
+    "profileImage": "assets/profiles/profile2.jpg",
+    "caption": "Simple lifestyle moments",
+    "images": [
+      "assets/posts/lifestyle/lifestyle2.jpg",
+      "assets/posts/lifestyle/lifestyle3.jpg",
+      "assets/posts/lifestyle/lifestyle4.jpg"
+    ],
+    "likes": 134,
+    "isLiked": false,
+    "isSaved": false
+  },
+  {
+    "id": "108",
+    "username": "michael",
+    "profileImage": "assets/profiles/profile3.jpg",
+    "caption": "Portrait session today",
+    "images": [
+      "assets/posts/portrait/portrait2.jpg",
+      "assets/posts/portrait/portrait3.jpg",
+      "assets/posts/portrait/portrait4.jpg"
+    ],
+    "likes": 165,
+    "isLiked": false,
+    "isSaved": false
+  }
+]

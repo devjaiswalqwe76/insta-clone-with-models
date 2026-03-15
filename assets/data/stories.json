@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "username": "alex",
+    "profileImage": "assets/profiles/profile1.jpg"
+  },
+  {
+    "id": "2",
+    "username": "sara",
+    "profileImage": "assets/profiles/profile2.jpg"
+  },
+  {
+    "id": "3",
+    "username": "john",
+    "profileImage": "assets/profiles/profile3.jpg"
+  },
+  {
+    "id": "4",
+    "username": "emma",
+    "profileImage": "assets/profiles/profile4.jpg"
+  },
+  {
+    "id": "5",
+    "username": "michael",
+    "profileImage": "assets/profiles/profile5.jpg"
+  },
+  {
+    "id": "6",
+    "username": "olivia",
+    "profileImage": "assets/profiles/profile6.jpg"
+  },
+  {
+    "id": "7",
+    "username": "david",
+    "profileImage": "assets/profiles/profile3.jpg"
+  },
+  {
+    "id": "8",
+    "username": "sophia",
+    "profileImage": "assets/profiles/profile2.jpg"
+  }
+]
